@@ -33,9 +33,6 @@
 ### 😂 Random Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 200px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=abhisheksingh4891&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisheksingh4891&show_icons=true&locale=en&layout=compact" alt="abhisheksingh4891" /></p>
