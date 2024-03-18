@@ -30,17 +30,6 @@
 ### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 200px;"/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisheksingh4891&show_icons=true&locale=en&layout=compact" alt="abhisheksingh4891" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhisheksingh4891&show_icons=true&locale=en" alt="abhisheksingh4891" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheksingh4891&" alt="abhisheksingh4891" /></p>
----!>
 <!---
 abhisheksingh4891/abhisheksingh4891 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
