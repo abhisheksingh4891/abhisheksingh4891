@@ -8,11 +8,11 @@
 - 👯 I’m looking to collaborate on ...
 - 📫 How to reach me **abhishek.cse.28@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Profile Stats:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/abhishek-singh-7a39a5219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-singh-154a561b8" height="30" width="40" /></a>
-<a href="https://instagram.com/singh.abhishek.28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="learder_aman_jha" height="30" width="40" /></a>
-</p>
+<!--<a href="https://www.linkedin.com/in/abhishek-singh-7a39a5219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-singh-154a561b8" height="30" width="40" /></a>
+<a href="https://instagram.com/singh.abhishek.28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="learder_aman_jha" height="30" width="40" /></a> --!>
+</p> 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisheksingh4891&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheksingh4891" /> </p>
@@ -27,8 +27,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abhisheksingh4891&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksingh4891&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- ### ✍️ Random Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) --!>
 
 <!---
 abhisheksingh4891/abhisheksingh4891 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
