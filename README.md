@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate Mern Stack Developer from India</h3>
 
 
 <!-- - 👋 Hi, I’m @abhisheksingh4891 -->
