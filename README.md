@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
-<h3 align="center">A passionate Mern Stack Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 
 <!-- - 👋 Hi, I’m @abhisheksingh4891 -->
-- 🌱 I’m currently learning **Express Js and MongoDB**
+- 🌱 I’m currently learning **Next Js with TypeScript and Amazon web service**
 - 🔭 I’m interested in Competitive Programming and Software Development
 - 👯 I’m looking to collaborate on ...
 - 📫 How to reach me **abhishek.cse.28@gmail.com**
