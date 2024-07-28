@@ -5,7 +5,6 @@
 <!-- - 👋 Hi, I’m @abhisheksingh4891 -->
 - 🌱 I’m currently learning **Next Js with TypeScript and Amazon web service**
 - 🔭 I’m interested in Competitive Programming and Software Development
-- 👯 I’m looking to collaborate on ...
 - 📫 How to reach me **abhishek.cse.28@gmail.com**
 
 <h3 align="left">Profile Stats:</h3>
